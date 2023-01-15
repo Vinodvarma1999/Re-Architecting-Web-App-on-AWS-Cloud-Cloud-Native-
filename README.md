@@ -1,4 +1,4 @@
-# Project-4: Re-Architecting Web App on AWS Cloud[Cloud Native]
+# Re-Architecting Web App on AWS Cloud[Cloud Native]
 
 [*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
